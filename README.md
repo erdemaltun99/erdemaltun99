@@ -17,7 +17,7 @@ MSc Data Science student at the **University of Padua** and **Valedictorian grad
 
 ---
 
-### 📌 Featured Projects
+###  Featured Projects
 - **[Food Vision 50-Class Classification](https://github.com/erdemaltun99/food-image-classification-pytorch):** End-to-end deep learning benchmark using PyTorch, ResNet18, EfficientNet-B0 fine-tuning, and Grad-CAM explainability.
 - **[Venice Airbnb Price Prediction](https://github.com/erdemaltun99/venice-airbnb-price-prediction):** Tabular & geospatial pricing model using CatBoost, OSM features, and text embeddings (MAE: €75.04).
 - **[Turkish Sentiment Analysis](https://github.com/erdemaltun99/turkish-sentiment-analysis):** TÜBİTAK-supported NLP project comparing ML classifiers on customer reviews (Published research).
