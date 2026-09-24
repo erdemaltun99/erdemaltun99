@@ -1,30 +1,114 @@
 # Hi, I'm Erdem Altun 👋
 
-MSc Data Science student at the **University of Padua** and **Valedictorian graduate in Statistics (BSc)**. Passionate about machine learning, statistical modeling, and deep learning solutions.
+### MSc Data Science @ University of Padua | BSc Statistics, Valedictorian
 
--  **MSc in Data Science** – Università degli Studi di Padova (Present)
--  **BSc in Statistics (Ranked 1st / Valedictorian)** – Ege University (2024)
--  **Published Researcher** – TÜBİTAK 2209-A grant recipient (NLP & Sentiment Analysis)
--  **Currently seeking:** Remote / Hybrid **Curricular Internship (Stage Curriculare)** or Master's Thesis collaboration across Italy.
+I'm a Data Science master's student with a strong foundation in **statistics, machine learning, and applied data analysis**.
 
----
+My work focuses on building end-to-end machine learning solutions — from data preprocessing and feature engineering to model development, evaluation, and interpretation.
 
-###  Tech Stack & Core Tools
-- **Languages & Core:** Python, SQL, R, Bash
-- **Machine Learning & Deep Learning:** PyTorch, Scikit-learn, CatBoost, LightGBM, XGBoost, NLTK
-- **Data Engineering & Analytics:** PySpark, Pandas, NumPy, Matplotlib, Seaborn
-- **Domains:** Statistical Modeling, Computer Vision, Natural Language Processing, Process Mining
+I am particularly interested in **Machine Learning, NLP, Deep Learning, Statistical Modeling, and Numerical Optimization**.
+
+ Padua, Italy  
+ Currently seeking a **Curricular Internship (Stage Curriculare)** or **Master's Thesis collaboration** in Data Science / Machine Learning.
 
 ---
 
-###  Featured Projects
-- **[Food Vision 50-Class Classification](https://github.com/erdemaltun99/food-image-classification-pytorch):** End-to-end deep learning benchmark using PyTorch, ResNet18, EfficientNet-B0 fine-tuning, and Grad-CAM explainability.
-- **[Venice Airbnb Price Prediction](https://github.com/erdemaltun99/venice-airbnb-price-prediction):** Tabular & geospatial pricing model using CatBoost, OSM features, and text embeddings (MAE: €75.04).
-- **[Turkish Sentiment Analysis](https://github.com/erdemaltun99/turkish-sentiment-analysis):** TÜBİTAK-supported NLP project comparing ML classifiers on customer reviews (Published research).
+##  About Me
+
+-  MSc in **Data Science** — University of Padua
+-  BSc in **Statistics**, ranked **1st in the department / Valedictorian** — Ege University
+-  Completed a **TÜBİTAK 2209-A funded NLP research project**
+-  Research presented and published at an international scientific congress
+-  Interested in developing practical and scalable machine learning systems
+-  Open to internship and thesis opportunities in international teams
 
 ---
 
-📫 **Connect with me:**
-- [LinkedIn](https://linkedin.com/in/erdem-altun-ds)
-- Email: `erdemaltun661@gmail.com`
-- Location: Padua, Italy
+##  Tech Stack
+
+### Programming & Data
+`Python` `SQL` `R` `MATLAB` `Bash`
+
+### Machine Learning & Deep Learning
+`Scikit-learn` `PyTorch` `XGBoost` `LightGBM` `CatBoost`
+
+### Data Analysis
+`Pandas` `NumPy` `Matplotlib` `Seaborn`
+
+### NLP & Data Engineering
+`NLTK` `TF-IDF` `Transformer Embeddings` `PySpark`
+
+### Areas of Interest
+`Machine Learning` `Deep Learning` `NLP` `Statistical Modeling`  
+`Time Series` `Numerical Optimization` `Process Mining` `Computer Vision`
+
+---
+
+##  Featured Projects
+
+###  [LASSO Optimization Methods](https://github.com/erdemaltun99/lasso-optimization-methods)
+
+Comparison of **Classic Frank-Wolfe, Pairwise Frank-Wolfe, and Projected Gradient** for L1-constrained sparse regression.
+
+- Implemented and benchmarked first-order optimization algorithms
+- Evaluated convergence, optimality gaps, runtime, and sparsity
+- Tested across datasets ranging from low-dimensional to highly sparse high-dimensional settings
+
+**Tech:** Python · NumPy · SciPy · Scikit-learn · Numerical Optimization
+
+---
+
+###  [Venice Airbnb Price Prediction](https://github.com/erdemaltun99/venice-airbnb-price-prediction)
+
+End-to-end machine learning pipeline for predicting Airbnb prices in Venice using structured, geospatial, and textual features.
+
+- Compared Ridge, XGBoost, LightGBM, and CatBoost
+- Engineered OpenStreetMap-based geospatial features
+- Extended the model with TF-IDF, transformer embeddings, and luxury-keyword features
+- Final test performance: **MAE €75.04**
+
+**Tech:** Python · CatBoost · XGBoost · LightGBM · NLP · Geospatial ML
+
+---
+
+###  [Turkish Sentiment Analysis](https://github.com/erdemaltun99/turkish-sentiment-analysis)
+
+TÜBİTAK-supported research project for sentiment classification of Turkish customer reviews.
+
+- Built an end-to-end NLP preprocessing pipeline
+- Compared Logistic Regression, Random Forest, and SVM
+- Conducted model evaluation and optimization
+- Research findings presented at an international scientific congress
+
+**Tech:** Python · Scikit-learn · NLTK · NLP · Machine Learning
+
+---
+
+##  Other Academic Work
+
+### Business Process Intelligence — Process Mining
+
+Analyzed an emergency department event log using process discovery, conformance checking, and simulation.
+
+**Tools:** ProM · PM4Py · WoPeD · BIMP
+
+---
+
+##  Currently Exploring
+
+- Deep Learning with PyTorch
+- Computer Vision
+- Transfer Learning
+- Model Explainability
+- Advanced Machine Learning
+- Optimization for Data Science
+
+---
+
+##  Connect With Me
+
+[LinkedIn](https://linkedin.com/in/erdem-altun-ds)  
+[GitHub](https://github.com/erdemaltun99)  
+📧 `erdemaltun661@gmail.com`
+
+📍 Padua, Italy
