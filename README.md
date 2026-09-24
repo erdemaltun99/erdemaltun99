@@ -4,23 +4,12 @@
 
 I'm a Data Science master's student with a strong foundation in **statistics, machine learning, and applied data analysis**.
 
-My work focuses on building end-to-end machine learning solutions — from data preprocessing and feature engineering to model development, evaluation, and interpretation.
+I build end-to-end data science and machine learning solutions — from **data preprocessing and feature engineering** to **model development, evaluation, and interpretation**.
 
-I am particularly interested in **Machine Learning, NLP, Deep Learning, Statistical Modeling, and Numerical Optimization**.
+My main interests include **Machine Learning, NLP, Statistical Modeling, Numerical Optimization, Big Data, and Deep Learning**.
 
  Padua, Italy  
- Currently seeking a **Curricular Internship (Stage Curriculare)** or **Master's Thesis collaboration** in Data Science / Machine Learning.
-
----
-
-##  About Me
-
--  MSc in **Data Science** — University of Padua
--  BSc in **Statistics**, ranked **1st in the department / Valedictorian** — Ege University
--  Completed a **TÜBİTAK 2209-A funded NLP research project**
--  Research presented and published at an international scientific congress
--  Interested in developing practical and scalable machine learning systems
--  Open to internship and thesis opportunities in international teams
+ Seeking a **Curricular Internship (Stage Curriculare)** or **Master's Thesis collaboration** in Data Science / Machine Learning.
 
 ---
 
@@ -35,28 +24,16 @@ I am particularly interested in **Machine Learning, NLP, Deep Learning, Statisti
 ### Data Analysis
 `Pandas` `NumPy` `Matplotlib` `Seaborn`
 
-### NLP & Data Engineering
-`NLTK` `TF-IDF` `Transformer Embeddings` `PySpark`
+### NLP & Big Data
+`NLTK` `TF-IDF` `Transformer Embeddings` `PySpark` `Apache Spark`
 
 ### Areas of Interest
-`Machine Learning` `Deep Learning` `NLP` `Statistical Modeling`  
-`Time Series` `Numerical Optimization` `Process Mining` `Computer Vision`
+`Machine Learning` `NLP` `Statistical Modeling` `Numerical Optimization`  
+`Big Data` `Time Series` `Process Mining` `Computer Vision`
 
 ---
 
 ##  Featured Projects
-
-###  [LASSO Optimization Methods](https://github.com/erdemaltun99/lasso-optimization-methods)
-
-Comparison of **Classic Frank-Wolfe, Pairwise Frank-Wolfe, and Projected Gradient** for L1-constrained sparse regression.
-
-- Implemented and benchmarked first-order optimization algorithms
-- Evaluated convergence, optimality gaps, runtime, and sparsity
-- Tested across datasets ranging from low-dimensional to highly sparse high-dimensional settings
-
-**Tech:** Python · NumPy · SciPy · Scikit-learn · Numerical Optimization
-
----
 
 ###  [Venice Airbnb Price Prediction](https://github.com/erdemaltun99/venice-airbnb-price-prediction)
 
@@ -64,36 +41,52 @@ End-to-end machine learning pipeline for predicting Airbnb prices in Venice usin
 
 - Compared Ridge, XGBoost, LightGBM, and CatBoost
 - Engineered OpenStreetMap-based geospatial features
-- Extended the model with TF-IDF, transformer embeddings, and luxury-keyword features
-- Final test performance: **MAE €75.04**
+- Extended the pipeline with TF-IDF, transformer embeddings, and luxury-keyword features
+- Achieved a final test **MAE of €75.04**
 
 **Tech:** Python · CatBoost · XGBoost · LightGBM · NLP · Geospatial ML
 
 ---
 
-###  [Turkish Sentiment Analysis](https://github.com/erdemaltun99/turkish-sentiment-analysis)
+###  [LASSO Optimization Methods](https://github.com/erdemaltun99/lasso-optimization-methods)
 
-TÜBİTAK-supported research project for sentiment classification of Turkish customer reviews.
+Comparison of **Classic Frank-Wolfe, Pairwise Frank-Wolfe, and Projected Gradient** for L1-constrained sparse regression.
 
-- Built an end-to-end NLP preprocessing pipeline
-- Compared Logistic Regression, Random Forest, and SVM
-- Conducted model evaluation and optimization
-- Research findings presented at an international scientific congress
+- Implemented and benchmarked first-order optimization algorithms
+- Evaluated convergence, optimality gaps, runtime, and sparsity
+- Tested the methods across datasets with very different dimensionality and sparsity characteristics
 
-**Tech:** Python · Scikit-learn · NLTK · NLP · Machine Learning
+**Tech:** Python · NumPy · SciPy · Scikit-learn · Numerical Optimization
 
 ---
 
 ###  [Big Data Computing with PySpark](https://github.com/erdemaltun99/big-data-computing-pyspark)
 
-Course projects focused on distributed and streaming algorithms using PySpark.
+Distributed and streaming algorithm projects developed with PySpark.
 
-- Implemented distributed fair clustering with partition-level coresets
+- Implemented distributed fair clustering using partition-level coresets
 - Evaluated scalability across multiple executor configurations
 - Implemented Sticky Sampling and Count-Min Sketch for streaming frequency estimation
-- Analyzed runtime, memory usage, and approximation trade-offs
+- Analyzed runtime, memory usage, scalability, and approximation trade-offs
 
 **Tech:** Python · PySpark · Apache Spark · Distributed Computing · Streaming Algorithms
+
+---
+
+###  [Turkish Sentiment Analysis](https://github.com/erdemaltun99/turkish-sentiment-analysis)
+
+TÜBİTAK 2209-A supported research project for sentiment classification of Turkish customer reviews.
+
+- Built an end-to-end NLP preprocessing pipeline
+- Compared Logistic Regression, Random Forest, and SVM
+- Performed model evaluation and optimization
+- Research findings were presented and published at an international scientific congress
+
+**Publication:** DOI `10.52460/issc.2024.022`
+
+**Tech:** Python · Scikit-learn · NLTK · NLP · Machine Learning
+
+---
 
 ##  Other Academic Work
 
@@ -105,13 +98,12 @@ Analyzed an emergency department event log using process discovery, conformance 
 
 ---
 
-##  Currently Exploring
+##  Current Focus
 
 - Deep Learning with PyTorch
-- Computer Vision
-- Transfer Learning
+- Computer Vision and Transfer Learning
 - Model Explainability
-- Advanced Machine Learning
+- Scalable Machine Learning
 - Optimization for Data Science
 
 ---
