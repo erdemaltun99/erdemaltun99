@@ -84,6 +84,17 @@ TÜBİTAK-supported research project for sentiment classification of Turkish cus
 
 ---
 
+###  [Big Data Computing with PySpark](https://github.com/erdemaltun99/big-data-computing-pyspark)
+
+Course projects focused on distributed and streaming algorithms using PySpark.
+
+- Implemented distributed fair clustering with partition-level coresets
+- Evaluated scalability across multiple executor configurations
+- Implemented Sticky Sampling and Count-Min Sketch for streaming frequency estimation
+- Analyzed runtime, memory usage, and approximation trade-offs
+
+**Tech:** Python · PySpark · Apache Spark · Distributed Computing · Streaming Algorithms
+
 ##  Other Academic Work
 
 ### Business Process Intelligence — Process Mining
